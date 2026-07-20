@@ -9,8 +9,20 @@
   "repository": "canvas",
   "branch": "main",
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-07-20T04:58:53.682Z",
+  "updatedAt": "2026-07-20T05:00:16.142Z",
   "backups": [
+    {
+      "name": "cc-backup-2026-07-20_10-30-00.zip",
+      "storage": "release",
+      "assetId": 483078102,
+      "assetName": "cc-backup-2026-07-20_10-30-00.zip",
+      "releaseTag": "cognitive-canvas-backups",
+      "path": "cognitive-canvas/backups/data/cc-backup-2026-07-20_10-30-00.zip",
+      "size": 305515438,
+      "totalSize": 305515438,
+      "createdAt": "2026-07-20T05:00:16.142Z",
+      "format": "single"
+    },
     {
       "name": "cc-backup-2026-07-20_10-28-39.zip",
       "storage": "release",
