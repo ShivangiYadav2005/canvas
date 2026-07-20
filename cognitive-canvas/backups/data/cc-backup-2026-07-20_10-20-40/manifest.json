@@ -1,0 +1,21 @@
+{
+  "git": {
+    "owner": "ShivangiYadav2005",
+    "repo": "canvas",
+    "branch": "main"
+  },
+  "owner": "ShivangiYadav2005",
+  "repo": "canvas",
+  "repository": "canvas",
+  "branch": "main",
+  "backupKind": "cognitive-canvas-chunked",
+  "backupVersion": 2,
+  "format": "chunked",
+  "backupId": "cc-backup-2026-07-20_10-20-40",
+  "name": "cc-backup-2026-07-20_10-20-40.zip",
+  "totalChunks": 8,
+  "totalSize": 123285125,
+  "createdAt": "2026-07-20T04:50:40.450Z",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-07-20T04:52:58.300Z"
+}
